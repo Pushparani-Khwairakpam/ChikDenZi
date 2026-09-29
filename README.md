@@ -4,7 +4,7 @@ Interactive R Shiny web application for surveillance and analysis of **Chikungun
 
 🔗 **Live app:** https://chikdenzi.com
 
-![Home page](home.png)
+
 
 ## About
 
@@ -24,7 +24,9 @@ ChikDenZi – ArboWatch is a multi-source surveillance platform that brings dise
 - **Login-based access** to the full analytical dashboards
 
 ## Screenshots
-
+| Home | 
+| ![Home](home.png) |
+|---|---|
 | Overview | Disease dashboard |
 |---|---|
 | ![Overview](overview.png) | ![Dashboard](disease_dashboard.png) |
