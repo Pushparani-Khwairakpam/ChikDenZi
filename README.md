@@ -50,7 +50,7 @@ All data comes from publicly available sources: the National Centre for Vector B
 
 ## Credits
 
-**Developed by:** Pushparani Khwairakpam (dashboard development and data analysis)
+**Developed by:** Pushparani Khwairakpam (dashboard development)
 
 **Project lead:** Dr. Amit Sharma
 Structural Parasitology and Virus Research groups, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi
