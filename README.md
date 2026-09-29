@@ -26,7 +26,7 @@ ChikDenZi – ArboWatch is a multi-source surveillance platform that brings dise
 ## Screenshots
 | Home | 
 | ![Home](home.png) |
-|---|---|
+|---|
 | Overview | Disease dashboard |
 |---|---|
 | ![Overview](overview.png) | ![Dashboard](disease_dashboard.png) |
